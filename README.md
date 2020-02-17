@@ -1,2 +1,1 @@
-# the_witcher_project
-The witcher project
+# The witcher project
